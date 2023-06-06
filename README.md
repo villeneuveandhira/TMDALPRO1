@@ -94,7 +94,7 @@ maka menghasilkan tampilan:
 
 Jika masukan adalah
 <br />
-ADAB
+ADAB<br />
 1
 <br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO1/assets/101118033/3e3f462d-7031-4c2b-8a1e-feed665c3f05)
