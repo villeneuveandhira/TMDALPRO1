@@ -73,7 +73,7 @@ berdasarkan angka ASCII dari setiap karakter di dalam string. ASCII dari setiap 
 pada table ASCII yang dapat dicari di Google.
 <br />
 <br />
-Angka 65-90 adalah ASCII dari huruf A-Z
+Angka 65-90 adalah ASCII dari huruf A-Z<br />
 Angkat 97-122 adalah ASCII dari huruf a-z
 <br />
 <br />
