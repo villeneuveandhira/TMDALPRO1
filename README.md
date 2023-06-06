@@ -44,16 +44,10 @@ untuk diketik orang lain.
 <br />
 <br />
 Bentuk yang diijinkan:
-1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus
-membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global,
-yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.
-2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for,
-while dkk tanpa terkait dengan tugas yang dikumpulkan.
+1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.
+2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for, while dkk tanpa terkait dengan tugas yang dikumpulkan.
 3. bertanya mengenai logika program dalam bahasa manusia.
-4. menjawab kesalahan dalam program orang lain dan melihat kode program orang lain dengan
-kondisi yang menjawab kesalahan tidak memberitahu bagaimana kode seharusnya, tapi dengan
-memberikan contoh kode yang lain yang tidak terkait dengan kode program yang dikumpulkan
-dan yang menjawab tidak berniat mencontek kode program yang diberitahu.
+4. menjawab kesalahan dalam program orang lain dan melihat kode program orang lain dengan kondisi yang menjawab kesalahan tidak memberitahu bagaimana kode seharusnya, tapi dengan memberikan contoh kode yang lain yang tidak terkait dengan kode program yang dikumpulkan dan yang menjawab tidak berniat mencontek kode program yang diberitahu.
 <br />
 Ketikkan janji pada sebuah kode program sebagai komentar.
 <br />
