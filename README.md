@@ -77,16 +77,16 @@ Angka 65-90 adalah ASCII dari huruf A-Z<br />
 Angkat 97-122 adalah ASCII dari huruf a-z
 <br />
 <br />
-masukan program adalah sebagai berikut:
-• string yang dienkripsi
-• ketebalan
+masukan program adalah sebagai berikut:<br />
+• string yang dienkripsi<br />
+• ketebalan<br />
 <br />
-Masukan selalu bilangan bulat. Jika masukan adalah:
-aku
-2
+Masukan selalu bilangan bulat. Jika masukan adalah:<br />
+aku<br />
+2<br />
 Jika diubah menjadi ASCII adalah 97 107 117 (selisih dari setiap angka dalam satu ASCII dari 1 huruf
 adalah 1 spasi dikali ketebalan, sedangkan selisih antar ASCII dari dua buah huruf adalah 2 spasi dikali
-ketebalan).
+ketebalan).<br />
 <br />
 maka menghasilkan tampilan:
 <br />
