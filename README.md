@@ -38,8 +38,10 @@ jadi habis ngecek huruf bla bla bla itu ada prosedur cetak, nah isi prosedur cet
 akan print spasi, kalau for yang untuk bagian bla bla bla maka print 0. Nah parameter prosedur itu a b c
 d di dalam prosedur ada if untuk mengecek huruf......
 <br />
+<br />
 Juga termasuk kecurangan, karena pembicaraan di atas sudah termasuk membacakan kode program
 untuk diketik orang lain.
+<br />
 <br />
 Bentuk yang diijinkan:
 1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus
