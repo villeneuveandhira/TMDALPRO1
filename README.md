@@ -42,7 +42,6 @@ d di dalam prosedur ada if untuk mengecek huruf......
 Juga termasuk kecurangan, karena pembicaraan di atas sudah termasuk membacakan kode program
 untuk diketik orang lain.
 <br />
-<br />
 Bentuk yang diijinkan:
 1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.
 2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for, while dkk tanpa terkait dengan tugas yang dikumpulkan.
