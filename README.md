@@ -1,71 +1,7 @@
 # TMDALPRO1
-Tugas Masa Depan IK-100 Algoritma dan Pemrograman I untuk Meraih Ilmu yang Berkah di
-Masa Depan<br />
-Sifat: Perorangan<br />
-Dosen: Rosa Ariani Sukamto<br />
-Tanggal: 29 November 2021 – 5 Januari 2022 pukul 23.59<br />
-Bobot: 20% nilai akhir<br />
-<br />
-<br />
-Kerjakan dengan menggunakan fungsi dan prosedur, kode program dibagi menjadi 3 file yaitu .h
-(header), .c (berisi fungsi dan prosedur), main.c (berisi fungsi main). Kerjakan dengan menggunakan
-beberapa prosedur/fungsi (jangan dijadikan satu di main, atau hanya dengan menggunakan 1
-prosedur/fungsi). Sebisa mungkin libatkan fungsi dan prosedur (ada fungsi dan ada prosedur).
-<br />
-Bentuk Kecurangan:
-1. mengetikkan kode program yang dikumpulkan dengan melihat kode program teman yang juga
-untuk kepentingan dikumpulkan pada even yang sama
-2. mengetikkan kode program yang dikumpulkan berdasarkan petunjuk kode program dari
-omongan teman (dalam bentuk sudah kode program)
-3. mengumpulkan kode program milik orang lain (walau sudah dimodifikasi) (termasuk kode
-program hasil copy paste bukan dari kode program milik sendiri/mengetik sendiri)
-4. memberikan instruksi untuk mengetikkan kode program terkait kode program yang
-dikumpulkan
-5. memberikan kode program yang dikumpulkan ke orang lain untuk dilihat dan dicontek orang
-lain dalam kode program orang lain yang juga dikumpulkan
-6. memiliki alur program yang sama, bahkan memiliki lebih besar atau sama dengan 5 blok kode
-program yang sama
-<br />
-Jika terindikasi melakukan kecurangan di atas maka minimal akan mendapat sanksi
-pemotongan nilai minimal 50% dari nilai seharusnya, maksimal dianggap tidak mengerjakan
-tugas masa depan (jika sudah memiliki jejak rekam curang sebelumnya, dapat dikenakan sanksi
-nilai mata kuliah menjadi E). Keputusan dapat dilakukan secara sepihak oleh tim pengajar
-pemrograman (dosen dan asisten).
-<br />
-<br />
-Contoh komunikasi yang terindikasi kecurangan:<br />
-<br />
-jadi habis ngecek huruf bla bla bla itu ada prosedur cetak, nah isi prosedur cetak itu kalau for gini maka<br />
-akan print spasi, kalau for yang untuk bagian bla bla bla maka print 0. Nah parameter prosedur itu a b c<br />
-d di dalam prosedur ada if untuk mengecek huruf......<br />
-<br />
-Juga termasuk kecurangan, karena pembicaraan di atas sudah termasuk membacakan kode program
-untuk diketik orang lain.<br />
-<br />
-Bentuk yang diijinkan:<br />
-1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.<br />
-2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for, while dkk tanpa terkait dengan tugas yang dikumpulkan.<br />
-3. bertanya mengenai logika program dalam bahasa manusia.<br />
-4. menjawab kesalahan dalam program orang lain dan melihat kode program orang lain dengan kondisi yang menjawab kesalahan tidak memberitahu bagaimana kode seharusnya, tapi dengan memberikan contoh kode yang lain yang tidak terkait dengan kode program yang dikumpulkan dan yang menjawab tidak berniat mencontek kode program yang diberitahu.<br />
-<br />
-Ketikkan janji pada sebuah kode program sebagai komentar.<br />
-<br />
-Saya [nama] mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah<br />
+Saya [Villeneuve Andhira Suwandhi] mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah<br />
 Algoritma dan Pemrograman I untuk keberkahanNya maka saya tidak<br />
 melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.<br />
-<br />
-Pikirkan sebelum melanggar ☺, karena jika Allah/Tuhan memberi sanksi, biasanya tidak lebih<br />
-ringan dari hal yang memaksa kita curang saat ini. Berbanggalah menjadi orang yang jujur<br />
-walau nilai tidak baik tapi hasil sendiri, dan berusaha lagi namun berkah. Dibandingkan<br />
-mendapat nilai baik…. tapi di mata Tuhan tidak baik dan tidak berkah. Semangat ☺.<br />
-<br />
-Nilai sebelumnya juga akan dipertimbangkan, terutama nilai UAS dan kuis 3. Jika nilai tugas masa<br />
-depan bagus (misalnya 100) dan nilai UAS dan kuis 3 rendah (misal 40) maka tim pemrograman<br />
-berhak mengajukan mosi tidak percaya terhadap originalitas Tugas Masa Depan dan peserta akan<br />
-dimintai klarifikasi.<br />
-<br />
-Tugas Masa Depan diunggah di online judge/cspc dan akan diumumkan kemudia ketika sudah dibuka
-di cspc.
 
 # ENKRIPSI SANDI
 Buatlah sebuah program yang menerima masukan berupa sebuah string untuk dienkripsi menjadi sandi
