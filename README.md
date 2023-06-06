@@ -1,10 +1,10 @@
 # TMDALPRO1
 Tugas Masa Depan IK-100 Algoritma dan Pemrograman I untuk Meraih Ilmu yang Berkah di
-Masa Depan
-Sifat: Perorangan
-Dosen: Rosa Ariani Sukamto
-Tanggal: 29 November 2021 – 5 Januari 2022 pukul 23.59
-Bobot: 20% nilai akhir
+Masa Depan<br />
+Sifat: Perorangan<br />
+Dosen: Rosa Ariani Sukamto<br />
+Tanggal: 29 November 2021 – 5 Januari 2022 pukul 23.59<br />
+Bobot: 20% nilai akhir<br />
 <br />
 <br />
 Kerjakan dengan menggunakan fungsi dan prosedur, kode program dibagi menjadi 3 file yaitu .h
