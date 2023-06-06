@@ -42,27 +42,27 @@ d di dalam prosedur ada if untuk mengecek huruf......<br />
 Juga termasuk kecurangan, karena pembicaraan di atas sudah termasuk membacakan kode program
 untuk diketik orang lain.<br />
 <br />
-Bentuk yang diijinkan:
-1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.
-2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for, while dkk tanpa terkait dengan tugas yang dikumpulkan.
-3. bertanya mengenai logika program dalam bahasa manusia.
-4. menjawab kesalahan dalam program orang lain dan melihat kode program orang lain dengan kondisi yang menjawab kesalahan tidak memberitahu bagaimana kode seharusnya, tapi dengan memberikan contoh kode yang lain yang tidak terkait dengan kode program yang dikumpulkan dan yang menjawab tidak berniat mencontek kode program yang diberitahu.
+Bentuk yang diijinkan:<br />
+1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.<br />
+2. mengajari bagaimana membuat bagian bagian materi alpro, misal bagaimana membuat for, while dkk tanpa terkait dengan tugas yang dikumpulkan.<br />
+3. bertanya mengenai logika program dalam bahasa manusia.<br />
+4. menjawab kesalahan dalam program orang lain dan melihat kode program orang lain dengan kondisi yang menjawab kesalahan tidak memberitahu bagaimana kode seharusnya, tapi dengan memberikan contoh kode yang lain yang tidak terkait dengan kode program yang dikumpulkan dan yang menjawab tidak berniat mencontek kode program yang diberitahu.<br />
 <br />
-Ketikkan janji pada sebuah kode program sebagai komentar.
+Ketikkan janji pada sebuah kode program sebagai komentar.<br />
 <br />
-Saya [nama] mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah
-Algoritma dan Pemrograman I untuk keberkahanNya maka saya tidak
-melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya [nama] mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah<br />
+Algoritma dan Pemrograman I untuk keberkahanNya maka saya tidak<br />
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.<br />
 <br />
-Pikirkan sebelum melanggar ☺, karena jika Allah/Tuhan memberi sanksi, biasanya tidak lebih
-ringan dari hal yang memaksa kita curang saat ini. Berbanggalah menjadi orang yang jujur
-walau nilai tidak baik tapi hasil sendiri, dan berusaha lagi namun berkah. Dibandingkan
-mendapat nilai baik…. tapi di mata Tuhan tidak baik dan tidak berkah. Semangat ☺.
+Pikirkan sebelum melanggar ☺, karena jika Allah/Tuhan memberi sanksi, biasanya tidak lebih<br />
+ringan dari hal yang memaksa kita curang saat ini. Berbanggalah menjadi orang yang jujur<br />
+walau nilai tidak baik tapi hasil sendiri, dan berusaha lagi namun berkah. Dibandingkan<br />
+mendapat nilai baik…. tapi di mata Tuhan tidak baik dan tidak berkah. Semangat ☺.<br />
 <br />
-Nilai sebelumnya juga akan dipertimbangkan, terutama nilai UAS dan kuis 3. Jika nilai tugas masa
-depan bagus (misalnya 100) dan nilai UAS dan kuis 3 rendah (misal 40) maka tim pemrograman
-berhak mengajukan mosi tidak percaya terhadap originalitas Tugas Masa Depan dan peserta akan
-dimintai klarifikasi.
+Nilai sebelumnya juga akan dipertimbangkan, terutama nilai UAS dan kuis 3. Jika nilai tugas masa<br />
+depan bagus (misalnya 100) dan nilai UAS dan kuis 3 rendah (misal 40) maka tim pemrograman<br />
+berhak mengajukan mosi tidak percaya terhadap originalitas Tugas Masa Depan dan peserta akan<br />
+dimintai klarifikasi.<br />
 <br />
 Tugas Masa Depan diunggah di online judge/cspc dan akan diumumkan kemudia ketika sudah dibuka
 di cspc.
