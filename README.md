@@ -33,7 +33,7 @@ nilai mata kuliah menjadi E). Keputusan dapat dilakukan secara sepihak oleh tim 
 pemrograman (dosen dan asisten).
 <br />
 <br />
-Contoh komunikasi yang terindikasi kecurangan:
+Contoh komunikasi yang terindikasi kecurangan:<br />
 jadi habis ngecek huruf bla bla bla itu ada prosedur cetak, nah isi prosedur cetak itu kalau for gini maka
 akan print spasi, kalau for yang untuk bagian bla bla bla maka print 0. Nah parameter prosedur itu a b c
 d di dalam prosedur ada if untuk mengecek huruf......
