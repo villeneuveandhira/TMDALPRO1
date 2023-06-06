@@ -34,13 +34,12 @@ pemrograman (dosen dan asisten).
 <br />
 <br />
 Contoh komunikasi yang terindikasi kecurangan:<br />
-jadi habis ngecek huruf bla bla bla itu ada prosedur cetak, nah isi prosedur cetak itu kalau for gini maka
-akan print spasi, kalau for yang untuk bagian bla bla bla maka print 0. Nah parameter prosedur itu a b c
-d di dalam prosedur ada if untuk mengecek huruf......
-<br />
+jadi habis ngecek huruf bla bla bla itu ada prosedur cetak, nah isi prosedur cetak itu kalau for gini maka<br />
+akan print spasi, kalau for yang untuk bagian bla bla bla maka print 0. Nah parameter prosedur itu a b c<br />
+d di dalam prosedur ada if untuk mengecek huruf......<br />
 <br />
 Juga termasuk kecurangan, karena pembicaraan di atas sudah termasuk membacakan kode program
-untuk diketik orang lain.
+untuk diketik orang lain.<br />
 <br />
 Bentuk yang diijinkan:
 1. berbagi logika dalam bahasa manusia bukan ke dalam bahasa program. Tidak membahas harus membuat prosedur seperti apa, dan apa isi di dalam prosedur, tapi logika pemrosesan global, yang menentukan membuat prosedur atau fungsi itu orang yang mengerjakan.
